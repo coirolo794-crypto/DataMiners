@@ -1,0 +1,7 @@
+En la UTU, la gestión de los recursos tecnológicos y del soporte informático se realiza actualmente de forma básica, utilizando planillas separadas y registros que no están conectados entre sí. Esto hace que tareas como el control del inventario, el seguimiento de problemas técnicos o el préstamo de equipos no siempre se puedan llevar de manera clara y ordenada.
+
+ no existe un sistema único donde se pueda consultar la información en tiempo real. Debido a que esto pasa, la comunicación entre docentes, técnicos y personal administrativo no siempre es eficiente, y en varias ocasiones se generan demoras para resolver incidencias o dar respuesta a las solicitudes.
+
+A lo largo del tiempo, esta forma de trabajo ha provocado ciertos inconvenientes, como la desorganización de la información, la posibilidad de que se pierdan datos y una menor eficiencia en la gestión de las área. Estas dificultades terminan influyendo en el desarrollo normal de las actividades académicas.
+
+Teniendo en cuenta lo anterior, considerariamos  necesario implementar un sistema informático que permita unir la información, facilitar el control de los recursos tecnológicos y mejorar la gestión de incidencias y solicitudes dentro de la institución.
