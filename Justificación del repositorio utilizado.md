@@ -1,0 +1,4 @@
+
+El equipo de DataMiners decidió utilizar la plataforma GitHub para alojar el proyecto debido a que es la plataforma en la cual la mayor parte de nuestros miembros esta especializada y a su vez es sencillo de utilizar para un proyecto como este, nosotros también tomamos en cuenta el hecho de que se nos ha enseñado en este año la utilización de la misma y al emplearla en el proyecto nos ayuda a ir a la par de la materia de programación.
+
+Este a sido el motivo por el cual nuestro equipo decidió utilizar dicha plataforma y aunque nos llevo un tiempo considerable para la facilidad de la que podríamos haber elegido la plataforma nos pareció apropiado tomarnos un tiempo real y no decidir algo tan importante para nuestro proyecto en una sola reunión.
