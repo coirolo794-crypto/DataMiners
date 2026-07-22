@@ -1,2 +1,1 @@
-
-Nosotros como equipo decidimos utilizar un modelo de desarrollo mixto entre tradicional cascada y el modelo de desarrollo ágil cosa que nos parece adecuada al la propia letra del proyecto estipula que se realizara con un modelo tradicional cascada método que no termina de cerrar del todo en lo que es el proyecto puesto a que se divide en tres entregas lo que ocasiona que por regla general deje de ser ese modelo de desarrollo pero de todas maneras queremos implementar partes de ese sistema con elementos del modelo de desarrollo ágil ya que consideramos que es lo mas adecuado para este proyecto.  
+[Justificacion_de_metodo_de_desarrollo (1).pdf](https://github.com/user-attachments/files/30285519/Justificacion_de_metodo_de_desarrollo.1.pdf)
